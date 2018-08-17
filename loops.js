@@ -1,6 +1,6 @@
 function forLoop(n){
   n.push("I am 1 strange loop.")
-  for(let i = 1 ; i < 25 ;i++){
+  for(let i = 2 ; i < 25 ;i++){
     n.push("I am " +i+" strange loops.")
   }
   return n
