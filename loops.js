@@ -1,5 +1,5 @@
 function forLoop(n){
-  for(let i = 2 ; i < 25 ;i++){
+  for(let i = 0 ; i < 25 ;i++){
     if (i === 1){
       n.push("I am " +i+" strange loop.")
     }
